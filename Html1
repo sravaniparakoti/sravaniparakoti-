@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>sravaniparakoti</title>
+</head>
+<section>
+<h2>favourite foods</h2>
+<ul>
+<li>choclate</li>
+<li>icecreame</li>
+<li>noodels</li>
+<li>milkshake</li>
+</ul>
+</section>
+<section>
+<h3>Acheivements</h3>
+<ul>
+<li>progress in this course(100%)</li>
+<li>progress in the specialisation(90%)</li>
+<li>progress in the life goals(75%)</li>
+</ul>
+</section>
+
+
+
+</html>
